@@ -1,7 +1,6 @@
 import "./book.css";
 import B from "../img/9.jpg";
 import Image from "next/image";
-import React from "react";
 
 const Book = () => {
   return (

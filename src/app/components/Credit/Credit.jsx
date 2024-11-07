@@ -1,7 +1,5 @@
 import "./credit.css";
 
-import React from "react";
-
 const Credit = () => {
   return (
     <div className="cr">

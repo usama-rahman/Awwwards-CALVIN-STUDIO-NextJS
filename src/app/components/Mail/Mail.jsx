@@ -1,7 +1,5 @@
 import "./mail.css";
 
-import React from "react";
-
 const Mail = () => {
   return (
     <div className="m">

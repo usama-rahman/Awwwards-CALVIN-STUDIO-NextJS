@@ -1,8 +1,9 @@
 import "./feelings.css";
+
+import Image from "next/image";
+
 import F from "../img/7.jpg";
 import G from "../img/8.jpg";
-import Image from "next/image";
-import React from "react";
 
 const Feelings = () => {
   return (

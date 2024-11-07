@@ -1,7 +1,6 @@
 import "./head.css";
 import I from "../img/1.jpg";
 
-import React from "react";
 import Image from "next/image";
 
 const Head = () => {
